@@ -20,7 +20,7 @@ I build production systems end-to-end - from data architecture and backend APIs 
   - React, Node.js, Express, OpenAI
   - AI-generated code challenges with customizable difficulty, test cases, hints, and solution evaluation
 
-- **Auto Component** - [code](https://github.com/TimHuitt/auto-component) | [app](https://auto-component.com/)
+- **Auto Component** - [code](https://github.com/TimHuitt/auto-component) | [app](https://auto-component.com/) | [npm](https://www.npmjs.com/package/auto-component)
   - React, Node.js, Express, OpenAI
   - Published npm package that generates React UI components from AI prompts
 
